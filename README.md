@@ -1,6 +1,8 @@
 # Multicast
 
-Application reads an input file in the format of:
+Java Application that multicasts messages from a source to multiple receivers.
+
+Program reads an input file in the format of:
 
 7   //Number of Nodes  
 5 0 10.1.1.5    //NodeNumber,  0-Source 1-Sender 2-Receiver,  IP-Address  
